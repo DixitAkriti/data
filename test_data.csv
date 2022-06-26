@@ -1,3 +1,4 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
 LP002948,Male,Yes,2,Graduate,No,5780,0,192,360,1,Urban,Y
 LP002949,Female,No,3+,Graduate,,416,41667,350,180,,Urban,N
 LP002950,Male,Yes,0,Not Graduate,,2894,2792,155,360,1,Rural,Y
