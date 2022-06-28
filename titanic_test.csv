@@ -1,0 +1,12 @@
+﻿Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare
+1,2,Mrs. William (Imanita Parrish Hall) Shelley,female,25,0,1,26
+0,3,Mr. Johann Markun,male,33,0,0,7.8958
+0,3,Miss. Gerda Ulrika Dahlberg,female,22,0,0,10.5167
+0,2,Mr. Frederick James Banfield,male,28,0,0,10.5
+0,3,Mr. Henry Jr Sutehall,male,25,0,0,7.05
+0,3,Mrs. William (Margaret Norton) Rice,female,39,0,5,29.125
+0,2,Rev. Juozas Montvila,male,27,0,0,13
+1,1,Miss. Margaret Edith Graham,female,19,0,0,30
+0,3,Miss. Catherine Helen Johnston,female,7,1,2,23.45
+1,1,Mr. Karl Howell Behr,male,26,0,0,30
+0,3,Mr. Patrick Dooley,male,32,0,0,7.75
